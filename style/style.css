@@ -156,7 +156,7 @@ main .intro {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background: center/cover no-repeat url(img/intro.jpg);
+  background: center/cover no-repeat url(../img/intro.jpg);
   -ms-flex-pack: distribute;
       justify-content: space-around;
   -webkit-box-align: center;
